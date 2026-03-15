@@ -30,6 +30,10 @@ Almost same to the above but:
 - R15 is only supported, not R6
 - No ShiftLock
 
+For any module that has ShiftLock disabled, if you are to use it, you should probably disable the regular ShiftLock option in the roblox menu so users are not confused why shift lock isnt working, To disable:
+1. Find StarterPlayer Service
+2. Set "EnableMouseLockOption" to false
+
 ## How to install?
 1. Download the wanted module, make sure to read information about it here to understand it better.
 2. Import the rbxm file into the wanted game (Can Drag&Drop and such)
