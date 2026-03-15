@@ -8,7 +8,7 @@ The modified PlayerModules in this are designed for games i develop for.
 ### Note for each:
 - InvisCamera is removed
 - Click to move is removed
-- Roblox FFlags/[such live values](https://clientsettingscdn.roblox.com/v2/settings/application/PCDesktopClient) will not affect the modules in this repo
+- Roblox FFlags/[such config live values](https://clientsettingscdn.roblox.com/v2/settings/application/PCDesktopClient) will not affect the modules in this repo
 - Original source is old but has been updated to most of latest changes of Roblox
 - Direct calls like game.Players/such are modified to use :GetService instead so renaming services will not break the module
 - Classic, CameraToggle, Follow are supported, Orbital camera is removed/similar.
@@ -30,3 +30,8 @@ Pending information
 #### R15 PlayerModule:
 - R15 is only supported, not R6
 - No ShiftLock
+
+## How to install?
+1. Download the wanted module, make sure to read information about it her to understand it better.
+2. Import the rbxm file into the wanted game (Can Drag&Drop and such)
+3. Place the both scripts into StarterPlayerScripts which is located in StarterPlayer service
