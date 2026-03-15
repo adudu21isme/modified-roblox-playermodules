@@ -19,7 +19,7 @@ The modified PlayerModules in this are designed for games i develop for but deci
 
 Click to see video of it:
 
-[![Video showcase](https://img.youtube.com/vi/GtK6XaZDUxA/hqdefault.jpg)](https://www.youtube.com/embed/GtK6XaZDUxA)
+[![Video showcase](https://img.youtube.com/vi/GtK6XaZDUxA/hqdefault.jpg)](https://www.youtube.com/watch?v=GtK6XaZDUxA)
 
 
 #### R6 MouseLock removed:
@@ -27,7 +27,7 @@ Click to see video of it:
 
 Click to see video of it:
 
-[![Video showcase](https://img.youtube.com/vi/V9uib6tPmI4/hqdefault.jpg)](https://www.youtube.com/embed/V9uib6tPmI4)
+[![Video showcase](https://img.youtube.com/vi/V9uib6tPmI4/hqdefault.jpg)](https://www.youtube.com/watch?v=V9uib6tPmI4)
 
 #### R6 but with part camera collision:
 Almost same to the above but:
@@ -35,7 +35,7 @@ Almost same to the above but:
 
 Click to see video of it:
 
-[![Video showcase](https://img.youtube.com/vi/e5f2zsIBwic/hqdefault.jpg)](https://www.youtube.com/embed/e5f2zsIBwic)
+[![Video showcase](https://img.youtube.com/vi/e5f2zsIBwic/hqdefault.jpg)](https://www.youtube.com/watch?v=e5f2zsIBwic)
 
 #### R15 PlayerModule:
 - R15 is only supported, not R6
