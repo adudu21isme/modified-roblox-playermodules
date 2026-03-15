@@ -31,6 +31,6 @@ Almost same to the above but:
 - No ShiftLock
 
 ## How to install?
-1. Download the wanted module, make sure to read information about it her to understand it better.
+1. Download the wanted module, make sure to read information about it here to understand it better.
 2. Import the rbxm file into the wanted game (Can Drag&Drop and such)
 3. Place the both scripts into StarterPlayerScripts which is located in StarterPlayer service
