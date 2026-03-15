@@ -1,5 +1,3 @@
-# The information is unfinished, check back in a day.
-
 # Modified Roblox PlayerModule
 ## This is my modified version of the roblox default PlayerModule (StarterPlayerScripts/PlayerModule, non-server authority one)
 
