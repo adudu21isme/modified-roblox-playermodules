@@ -12,7 +12,7 @@ The modified PlayerModules in this are designed for games i develop for.
 - Original source is old but has been updated to most of latest changes of Roblox
 - Direct calls like game.Players/such are modified to use :GetService instead so renaming services will not break the module
 - Classic, CameraToggle, Follow are supported, Orbital camera is removed/similar.
-- AvatarGestures is not supported
+- AvatarGestures is not supported since this was originally designed for R6
 
 #### R6 Shiftlock:
 - ButtonX on console will trigger MouseLock
