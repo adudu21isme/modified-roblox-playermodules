@@ -17,18 +17,21 @@ The modified PlayerModules in this are designed for games i develop for but deci
 - Mobile shiftlock button next to jump button, so mobile users can use shiftlock too.
 - Setting Workspace Attribute "ShiftlockEnabled" to false via script or so will forcefully disable Shiftlock, Setting the value to anything that is positive or NIL will allow the user to use Shiftlock again.
 
+Click to see video of it:
 [![Video showcase](https://img.youtube.com/vi/GtK6XaZDUxA/hqdefault.jpg)](https://www.youtube.com/embed/GtK6XaZDUxA)
 
 
 #### R6 MouseLock removed:
 - Mouse lock is completely removed
 
+Click to see video of it:
 [![Video showcase](https://img.youtube.com/vi/V9uib6tPmI4/hqdefault.jpg)](https://www.youtube.com/embed/V9uib6tPmI4)
 
 #### R6 but with part camera collision:
 Almost same to the above but:
 - If BasePart has "CameraNoNoclip" attribute which value is true, it will prevent the Camera from going through the BasePart, regardless of its visibility/such.
 
+Click to see video of it:
 [![Video showcase](https://img.youtube.com/vi/e5f2zsIBwic/hqdefault.jpg)](https://www.youtube.com/embed/e5f2zsIBwic)
 
 #### R15 PlayerModule:
