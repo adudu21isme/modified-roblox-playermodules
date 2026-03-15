@@ -12,6 +12,7 @@ The modified PlayerModules in this are designed for games i develop for.
 - Original source is old but has been updated to most of latest changes of Roblox
 - Direct calls like game.Players/such are modified to use :GetService instead so renaming services will not break the module
 - Classic, CameraToggle, Follow are supported, Orbital camera is removed/similar.
+- AvatarGestures is not supported
 
 #### R6 Shiftlock:
 - ButtonX on console will trigger MouseLock
@@ -19,7 +20,7 @@ The modified PlayerModules in this are designed for games i develop for.
 - Setting Workspace Attribute "ShiftlockEnabled" to false will disable Shiftlock, Setting the value to anything that is positive or NIL will allow the user to use Shiftlock again.
 
 #### R6 No MouseLock:
-Pending information
+- Mouse lock is completely removed
 
 #### R6 but with part camera collision:
 Almost same to R6 No MouseLock but:
@@ -27,4 +28,5 @@ Almost same to R6 No MouseLock but:
 Pending information
 
 #### R15 PlayerModule:
-Pending information
+- R15 is only supported, not R6
+- No ShiftLock
