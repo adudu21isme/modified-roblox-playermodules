@@ -16,7 +16,6 @@ The modified PlayerModules in this are designed for games i develop for but deci
 - ButtonX on console will trigger MouseLock
 - Mobile shiftlock button next to jump button, so mobile users can use shiftlock too.
 - Setting Workspace Attribute "ShiftlockEnabled" to false via script or so will forcefully disable Shiftlock, Setting the value to anything that is positive or NIL will allow the user to use Shiftlock again.
-<video src="https://github.com/adudu21isme/modified-roblox-playermodules/raw/main/videos/R6%20No%20shiftlock.mp4" controls width="600"></video>
 
 #### R6 MouseLock removed:
 - Mouse lock is completely removed
