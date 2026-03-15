@@ -5,7 +5,7 @@
 
 The modified PlayerModules in this are designed for games i develop for.
 
-Note for each:
+### Note for each:
 - InvisCamera is removed
 - Click to move is removed
 - Roblox FFlags/[such live values](https://clientsettingscdn.roblox.com/v2/settings/application/PCDesktopClient) will not affect the modules in this repo
@@ -13,16 +13,16 @@ Note for each:
 - Direct calls like game.Players/such are modified to use :GetService instead so renaming services will not break the module
 - Classic, CameraToggle, Follow are supported, Orbital camera is removed/similar.
 
-R6 Shiftlock:
+#### R6 Shiftlock:
 - ButtonX on console will trigger MouseLock
 - Mobile shiftlock button next to jump button, so mobile users can use shiftlock too.
 - Setting Workspace Attribute "ShiftlockEnabled" to false will disable Shiftlock, Setting the value to anything that is positive or NIL will allow the user to use Shiftlock again.
 
-R6 No MouseLock:
+#### R6 No MouseLock:
 Pending information
 
-R6 but with part camera collision:
+#### R6 but with part camera collision:
 Pending information
 
-R15 PlayerModule:
+#### R15 PlayerModule:
 Pending information
