@@ -23,7 +23,7 @@ The modified PlayerModules in this are designed for games i develop for.
 - Mouse lock is completely removed
 
 #### R6 but with part camera collision:
-Almost same to R6 No MouseLock but:
+Almost same to the above but:
 - If BasePart has "CameraNoNoclip" attribute which value is true, it will prevent the Camera from going through the BasePart, regardless of its visibility/such.
 Pending information
 
