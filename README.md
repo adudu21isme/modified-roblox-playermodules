@@ -23,7 +23,7 @@ Pending information
 
 #### R6 but with part camera collision:
 Almost same to R6 No MouseLock but:
-- If BasePart has "CameraNoNoclip" attribute that is true, it will prevent the Camera from going through the BasePart, regardless of its visibility/such.
+- If BasePart has "CameraNoNoclip" attribute which value is true, it will prevent the Camera from going through the BasePart, regardless of its visibility/such.
 Pending information
 
 #### R15 PlayerModule:
