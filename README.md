@@ -17,3 +17,12 @@ R6 Shiftlock:
 - ButtonX on console will trigger MouseLock
 - Mobile shiftlock button next to jump button, so mobile users can use shiftlock too.
 - Setting Workspace Attribute "ShiftlockEnabled" to false will disable Shiftlock, Setting the value to anything that is positive or NIL will allow the user to use Shiftlock again.
+
+R6 No MouseLock:
+Pending information
+
+R6 but with part camera collision:
+Pending information
+
+R15 PlayerModule:
+Pending information
