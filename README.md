@@ -3,7 +3,7 @@
 # Modified Roblox PlayerModule
 ## This is my modified version of the roblox default PlayerModule (StarterPlayerScripts/PlayerModule, non-server authority one)
 
-The modified PlayerModules in this are designed for games i develop for.
+The modified PlayerModules in this are designed for games i develop for but decided to let anybody use it if they want.
 
 ### Note for each:
 - InvisCamera is removed
