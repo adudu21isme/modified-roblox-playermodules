@@ -53,7 +53,9 @@ For any module that has ShiftLock removed, if you are to use it, you should prob
 2. Import the rbxm file into the wanted game (Can Drag&Drop and such)
 3. Place both scripts into StarterPlayerScripts which is located in StarterPlayer service
 
-### Whats some games you are currently using this for?
+### What are some games adudu21 is using this for?
 https://www.roblox.com/games/108235899254530/Sniper-Tag
 
 https://www.roblox.com/games/112582089018099/Launch-a-Fruit
+
+There are more though i do not think it is needed to list them all here.
