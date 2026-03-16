@@ -1,6 +1,5 @@
 # Modified Roblox PlayerModule
 ## This is my modified version of the roblox default PlayerModule (StarterPlayerScripts/PlayerModule, non-server authority one)
-## ❗Note: i will optimze Popper.lua (Popper) soon and once i do, will update the modules for my games and update the modules in this repo❗
 # Modules are being updated+tested currently. Once such is done, a github release will be made and this message will be removed (Will be reviewing each module again/such).
 
 The modified PlayerModules in this are designed for games i develop for but decided to let anybody use it if they want instead of my modified PlayerModules being Private.
@@ -16,7 +15,7 @@ The modified PlayerModules in this are designed for games i develop for but deci
 - Default PlayerModule tends to use some deprecated methods so this uses the latest non-deprecated methods mostly as of writing this
 - AvatarGestures is not supported since this was originally designed for R6
 - MouseDeltaSensitivity will apply on most platforms
-- Adding Collection Tag "ExcludeFromCamera" to any Model/such will allow the camera to go fully through it.
+- Adding Collection Tag "ExcludeFromCamera" to any Model/such will allow the camera to go fully through it. Popper has been improved for such.
 
 #### R6 Shiftlock:
 - ButtonX on console will trigger MouseLock
