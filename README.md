@@ -1,7 +1,7 @@
 # Modified Roblox PlayerModule
 ## This is my modified version of the roblox default PlayerModule (StarterPlayerScripts/PlayerModule, non-server authority one)
 ## ❗Note: i will optimze Popper.lua (Popper) soon and once i do, will update the modules for my games and update the modules in this repo❗
-# Modules are being updated currently. Once such is done, a github release will be made and this message will be removed.
+# Modules are being updated currently. Once such is done, a github release will be made and this message will be removed (Will be reviewing each module again/such).
 
 The modified PlayerModules in this are designed for games i develop for but decided to let anybody use it if they want instead of my modified PlayerModules being Private.
 
