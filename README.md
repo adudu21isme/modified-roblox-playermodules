@@ -9,7 +9,7 @@ The modified PlayerModules in this are designed for games i develop for but deci
 - InvisCamera is removed
 - Click to move is removed
 - Roblox FFlags/[such config live values](https://clientsettingscdn.roblox.com/v2/settings/application/PCDesktopClient) will mostly not affect the modules in this repo
-- Original source is old but has been updated to most latest changes of Roblox but modified if needed at the time of writing this
+- Original source is old but has been updated to most latest changes [of Roblox](https://github.com/MaximumADHD/Roblox-Client-Tracker/tree/roblox/scripts/PlayerScripts) but modified if needed at the time of writing this
 - Direct calls like game.Players/such are modified to use :GetService instead so renaming services will not break the module
 - Classic, CameraToggle, Follow are supported, Orbital camera is removed/similar.
 - Removed some useless functions of default PlayerModule
