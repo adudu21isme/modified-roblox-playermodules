@@ -14,6 +14,7 @@ The modified PlayerModules in this are designed for games i develop for but deci
 - Default PlayerModule tends to use some deprecated methods so this uses the latest non-deprecated methods mostly as of writing this
 - AvatarGestures is not supported since this was originally designed for R6
 - MouseDeltaSensitivity will apply on most platforms
+- Adding Collection Tag "ExcludeFromCamera" to any Model/such will allow the camera to go fully through it.
 
 #### R6 Shiftlock:
 - ButtonX on console will trigger MouseLock
