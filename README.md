@@ -5,7 +5,7 @@
 
 The modified PlayerModules in this are designed for games i develop for but decided to let anybody use it if they want instead of my modified PlayerModules being Private.
 
-### Note for each:
+### Notes for each:
 - InvisCamera is removed
 - Click to move is removed
 - Roblox FFlags/[such config live values](https://clientsettingscdn.roblox.com/v2/settings/application/PCDesktopClient) will mostly not affect the modules in this repo
@@ -19,7 +19,7 @@ The modified PlayerModules in this are designed for games i develop for but deci
 > Adding Collection Tag "ExcludeFromCamera" to any Model/such will allow the camera to go fully through it. Popper has been improved for such.
 
 > [!NOTE]
-> [MouseDeltaSensitivity](https://create.roblox.com/docs/reference/engine/classes/UserInputService#MouseDeltaSensitivity) will apply on most platforms, not only computer.
+> [MouseDeltaSensitivity](https://create.roblox.com/docs/reference/engine/classes/UserInputService#MouseDeltaSensitivity) will apply on most platforms for each PlayerModule in this repo, not only computer.
 
 #### R6 Shiftlock:
 - ButtonX on console will trigger MouseLock
