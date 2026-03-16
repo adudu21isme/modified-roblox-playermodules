@@ -1,6 +1,6 @@
 # Modified Roblox PlayerModule
 ## This is my modified version of the roblox default PlayerModule (StarterPlayerScripts/PlayerModule, non-server authority one)
-## ❗Note: i will optimze Popper.lua (Popper) soon❗
+## ❗Note: i will optimze Popper.lua (Popper) soon and once i do, will update the modules for my games and update the modules in this repo❗
 
 The modified PlayerModules in this are designed for games i develop for but decided to let anybody use it if they want instead of my modified PlayerModules being Private.
 
@@ -51,7 +51,7 @@ For any module that has ShiftLock removed, if you are to use it, you should prob
 2. Set "EnableMouseLockOption" to false
 
 ## How to install?
-1. Download the wanted module, make sure to read information about it here to understand it better.
+1. Download the wanted module from this repo, make sure to read information about it here to understand it better.
 2. Import the rbxm file into the wanted game (Can Drag&Drop and such)
 3. Place both scripts into StarterPlayerScripts which is located in StarterPlayer service
 
