@@ -36,7 +36,7 @@ Click to see video of it:
 [![Video showcase](https://img.youtube.com/vi/V9uib6tPmI4/hqdefault.jpg)](https://www.youtube.com/watch?v=V9uib6tPmI4)
 
 #### R6 but with part camera collision:
-Almost same to the above but:
+Almost same to the R6 with Shiftlock Removed but:
 - If BasePart has "CameraNoNoclip" attribute which value is true, it will prevent the Camera from going through the BasePart, regardless of its visibility/such.
 
 Click to see video of it:
