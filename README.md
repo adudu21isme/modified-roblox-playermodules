@@ -1,6 +1,7 @@
 # Modified Roblox PlayerModule
 ## This is my modified version of the roblox default PlayerModule (StarterPlayerScripts/PlayerModule, non-server authority one)
-# ⚠️Modules are being updated+tested currently. Once such is done, a github release will be made and this message will be removed (Will be reviewing each module again/such).⚠️
+> [!WARNING]
+> Modules are currently being updated and being tested, it is not guaranteed to work currently however once i fully test it/such, a github release will be made if all is good and then this message will be removed.
 
 The modified PlayerModules in this are designed for games i develop for but decided to let anybody use it if they want instead of my modified PlayerModules being Private.
 
@@ -14,8 +15,11 @@ The modified PlayerModules in this are designed for games i develop for but deci
 - Removed some useless functions of default PlayerModule
 - Default PlayerModule tends to use some deprecated methods so this uses the latest non-deprecated methods mostly as of writing this
 - AvatarGestures is not supported since this was originally designed for R6
-- MouseDeltaSensitivity will apply on most platforms
-- Adding Collection Tag "ExcludeFromCamera" to any Model/such will allow the camera to go fully through it. Popper has been improved for such.
+> [!TIP]
+> Adding Collection Tag "ExcludeFromCamera" to any Model/such will allow the camera to go fully through it. Popper has been improved for such.
+
+> [!NOTE]
+> [MouseDeltaSensitivity](https://create.roblox.com/docs/reference/engine/classes/UserInputService#MouseDeltaSensitivity) will apply on most platforms, not only computer.
 
 #### R6 Shiftlock:
 - ButtonX on console will trigger MouseLock
@@ -48,9 +52,10 @@ Click to see video of it:
 - R15 is only supported, not R6
 - No ShiftLock
 
-For any module that has ShiftLock removed, if you are to use it, you should probably disable the regular ShiftLock option in the roblox menu so users are not confused why shift lock isnt working, To disable:
-1. Find StarterPlayer Service
-2. Set "EnableMouseLockOption" to false
+> [!NOTE]
+> For any module that has ShiftLock removed, if you are to use it, you should probably disable the regular ShiftLock option in the roblox menu so users are not confused why shift lock isnt working, To disable:
+> 1. Find StarterPlayer Service
+> 2. Set "EnableMouseLockOption" to false
 
 ## How to install?
 1. Download the wanted module from this repo, make sure to read information about it here to understand it better.
