@@ -21,7 +21,8 @@ The modified PlayerModules in this are designed for games i develop for but deci
 - ButtonX on console will trigger MouseLock
 - Mobile shiftlock button next to jump button, so mobile users can use shiftlock too.
 - Setting Workspace Attribute "ShiftlockEnabled" to false via script or so will forcefully disable Shiftlock, Setting the value to anything that is positive or NIL will allow the user to use Shiftlock again.
-- If you do not plan to use the "ShiftlockEnabled" attribute you can set the value of "ShiftlockAttributeListener" which is in the ShiftLockController Module to nil or false to disable the listener.
+> [!NOTE]
+> If you do not plan to use the "ShiftlockEnabled" attribute you can set the value of "ShiftlockAttributeListener" which is in the ShiftLockController Module to nil or false to disable the listener.
 
 Click to see video of it:
 
