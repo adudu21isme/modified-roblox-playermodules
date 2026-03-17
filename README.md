@@ -14,7 +14,8 @@ The modified PlayerModules in this are designed for games i develop for but deci
 - Default PlayerModule tends to use some deprecated methods so this uses the latest non-deprecated methods mostly as of writing this
 - AvatarGestures is not supported since this was originally designed for R6
 > [!TIP]
-> Adding Collection Tag "ExcludeFromCamera" to any Model/such will allow the camera to go fully through it. Popper has been improved for such.  
+> Adding Collection Tag "ExcludeFromCamera" to any Model/such will allow the camera to go fully through it. Popper has been improved for such.
+
 > [!NOTE]
 > [MouseDeltaSensitivity](https://create.roblox.com/docs/reference/engine/classes/UserInputService#MouseDeltaSensitivity) will apply to most platforms for each PlayerModule in this repo, not only computer.
 
