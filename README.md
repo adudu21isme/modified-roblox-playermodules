@@ -1,5 +1,6 @@
 # Modified Roblox PlayerModule
 ## This is my modified version of the roblox default PlayerModule (StarterPlayerScripts/PlayerModule, non-server authority one)
+VRVehicleCamera will be fixed soon! 
 
 The modified PlayerModules in this are designed for games i develop for but decided to let anybody use it if they want instead of my modified PlayerModules being Private.
 
