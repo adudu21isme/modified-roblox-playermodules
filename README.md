@@ -1,7 +1,5 @@
 # Modified Roblox PlayerModule
 ## This is my modified version of the roblox default PlayerModule (StarterPlayerScripts/PlayerModule, non-server authority one)
-> [!WARNING]
-> Modules are currently being tested and updated, it is not guaranteed to work fully currently however once i fully test it/such, a github release will be made if all is good and then this message will be removed.
 
 The modified PlayerModules in this are designed for games i develop for but decided to let anybody use it if they want instead of my modified PlayerModules being Private.
 
