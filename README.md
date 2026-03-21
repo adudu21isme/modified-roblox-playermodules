@@ -1,6 +1,5 @@
 # Modified Roblox PlayerModule
 ## This is my modified version of the roblox default PlayerModule (StarterPlayerScripts/PlayerModule, non-server authority one)
-R15 Shiftlock Module will be made soon
 
 The modified PlayerModules in this are designed for games i develop for but decided to let anybody use it if they want instead of my modified PlayerModules being Private.
 
@@ -46,6 +45,9 @@ Click to see video of it:
 #### R15 PlayerModule:
 - R15 is only supported, not R6
 - No ShiftLock
+
+- #### R15 Shiftlock:
+- Pretty much same to R6 Shiftlock but instead only supporting R15
 
 > [!NOTE]
 > For any module that has ShiftLock removed, if you are to use it, you should probably disable the regular ShiftLock option in the roblox menu so users are not confused why shift lock isnt working, To disable:
