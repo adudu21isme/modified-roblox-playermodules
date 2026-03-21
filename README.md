@@ -46,7 +46,7 @@ Click to see video of it:
 - R15 is only supported, not R6
 - No ShiftLock
 
-- #### R15 Shiftlock:
+#### R15 Shiftlock:
 - Pretty much same to R6 Shiftlock but instead only supporting R15
 
 > [!NOTE]
