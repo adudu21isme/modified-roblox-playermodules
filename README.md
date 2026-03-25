@@ -20,7 +20,7 @@ The modified PlayerModules in this are designed for games i develop for but deci
 > [MouseDeltaSensitivity](https://create.roblox.com/docs/reference/engine/classes/UserInputService#MouseDeltaSensitivity) will apply to most platforms for each PlayerModule in this repo, not only computer.
 
 #### R6 Shiftlock:
-- ButtonX on console will trigger MouseLock
+- ButtonX (Gamepad) will trigger MouseLock
 - Mobile shiftlock button next to jump button, so mobile users can use shiftlock too.
 - Setting Workspace Attribute "ShiftlockEnabled" to false via script or so will forcefully disable Shiftlock, Setting the value to anything that is positive or NIL will allow the user to use Shiftlock again.
 > [!NOTE]
