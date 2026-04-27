@@ -12,6 +12,7 @@ The modified PlayerModules in this are designed for games i develop for but deci
 - Classic, CameraToggle, Follow are supported, Orbital camera is removed/similar.
 - Removed some useless functions of default PlayerModule
 - Default PlayerModule tends to use some deprecated methods so this uses the latest non-deprecated methods mostly as of writing this
+- Mobile jump button will always be visible
 > [!TIP]
 > Adding Collection Tag "ExcludeFromCamera" to any Model/such will allow the camera to go fully through it. Popper has been improved for such.
 
