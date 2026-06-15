@@ -1,4 +1,5 @@
 # Modified Roblox PlayerModule
+## These modules will soon be converted to [Input Action System](https://devforum.roblox.com/t/full-release-input-action-system-ias-newly-converted-player-scripts/4678416)
 ## This is my modified version of the roblox default PlayerModule (StarterPlayerScripts/PlayerModule, non-server authority one)
 
 The modified PlayerModules in this are designed for games i develop for but decided to let anybody use it if they want instead of my modified PlayerModules being Private.
